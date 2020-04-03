@@ -7,7 +7,7 @@ class AppTheme {
     primaryColor: Constants.primaryColor,
     accentColor: Colors.red,
     primaryTextTheme: TextTheme(
-      title: TextStyle(
+      headline6: TextStyle(
         color: Colors.white,
         fontWeight: FontWeight.bold,
       ),
@@ -15,11 +15,11 @@ class AppTheme {
         color: Constants.primaryColor,
         fontWeight: FontWeight.bold,
       ),
-      body1: TextStyle(
+      bodyText2: TextStyle(
         color: Constants.primaryColor,
         fontWeight: FontWeight.bold,
       ),
-      body2: TextStyle(
+      bodyText1: TextStyle(
         color: Constants.primaryColor,
         fontWeight: FontWeight.bold,
       ),
@@ -27,23 +27,23 @@ class AppTheme {
         color: Constants.primaryColor,
         fontWeight: FontWeight.bold,
       ),
-      display1: TextStyle(
+      headline4: TextStyle(
         color: Constants.primaryColor,
         fontWeight: FontWeight.bold,
       ),
-      display2: TextStyle(
+      headline3: TextStyle(
         color: Constants.primaryColor,
         fontWeight: FontWeight.bold,
       ),
-      display3: TextStyle(
+      headline2: TextStyle(
         color: Constants.primaryColor,
         fontWeight: FontWeight.bold,
       ),
-      display4: TextStyle(
+      headline1: TextStyle(
         color: Constants.primaryColor,
         fontWeight: FontWeight.bold,
       ),
-      headline: TextStyle(
+      headline5: TextStyle(
         color: Constants.primaryColor,
         fontWeight: FontWeight.bold,
       ),
@@ -51,11 +51,11 @@ class AppTheme {
         color: Constants.primaryColor,
         fontWeight: FontWeight.bold,
       ),
-      subhead: TextStyle(
+      subtitle1: TextStyle(
         color: Constants.primaryColor,
         fontWeight: FontWeight.bold,
       ),
-      subtitle: TextStyle(
+      subtitle2: TextStyle(
         color: Constants.primaryColor,
         fontWeight: FontWeight.bold,
       ),
